@@ -1,6 +1,6 @@
  <p align="center">
   <a href="#"><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br></a> 
-  <h2 align='center'> 🙋🏻‍♂️ Hi over there, I'm <a href="https://sanchitdogra.me">Sanchit!</a>🧑🏻‍💻</h2>
+  <h2 align='center'> 🙋🏻‍♂️ Hi over there, I'm <a href="https://sanchitdogra.github.io">Sanchit!</a>🧑🏻‍💻</h2>
 </p>
 
  <h3  align='center'>📬 Find me around the web 🌎 </h3>
@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/sanchit-dogra-6921b717a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:sanchitdogra5@gmail.com?subject=Hi%20Sanchit!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
  <img src="https://tryhackme-badges.s3.amazonaws.com/sanchitdogra5.png" alt="TryHackMe" > 
- <a href="https://www.sanchitodgra.me"><img src="https://img.shields.io/badge/website-black?&style=for-the-badge&logo=website&logoColor=white" alt="website" /></a>&nbsp;
+ <a href="https://www.sanchitdogra.github.io"><img src="https://img.shields.io/badge/website-black?&style=for-the-badge&logo=website&logoColor=white" alt="website" /></a>&nbsp;
 </p>
 
 <br>
